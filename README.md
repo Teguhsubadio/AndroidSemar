@@ -1,5 +1,5 @@
 # Android Semar
-![logo](asset/images/logo.png)
+![logo](logos.png)
 Aplikasi Android untuk mengakses SEMAR
 
 ## persyaratan sistem:
