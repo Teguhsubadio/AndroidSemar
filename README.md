@@ -1,6 +1,8 @@
+# Android Semar
+![logo](asset/images/logo.png)
 Aplikasi Android untuk mengakses SEMAR
 
-persyaratan sistem:
+## persyaratan sistem:
 - Android 6 keatas
 - Gawai berarsitektur ARMv7 atau ARMv8
 - RAM 1GB
